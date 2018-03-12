@@ -1,3 +1,5 @@
+//Example found inside PAHO MQTT C - Testing with my own CMakeLists.txt
+
 /*
  * -----------------------------------------------------------------
  * IBM Websphere MQ Telemetry
